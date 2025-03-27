@@ -7,6 +7,8 @@
   </picture>
 </p>
 
+<div align="center">
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -18,6 +20,7 @@
 [![Collaborators](https://img.shields.io/badge/Collaborators-3-orange.svg?style=flat)](https://github.com//vihar2712/project-1-nn/graphs/contributors)
 [![Open Issues](https://img.shields.io/github/issues/Rmv-se-510/NCSU_Campus_Jobs_Review_System_2.0)](https://github.com//vihar2712/project-1-nn/issues)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Rmv-se-510/NCSU_Campus_Jobs_Review_System_2.0.svg)](https://img.shields.io/github/repo-size//vihar2712/project-1-nn.svg)
+</div>
 
 ---
 

@@ -24,6 +24,10 @@
 
 ---
 
+## Motivation
+
+Leaf diseases significantly impact agricultural productivity, and early detection is crucial for effective crop management. While deep learning models have shown promise in leaf disease classification, their performance often depends on the availability of large labeled datasets, which are scarce and expensive to obtain. This project investigates whether representation learning using autoencoders can improve classification accuracy by leveraging unlabeled data to learn robust feature representations. We propose a comparative study of four strategies to evaluate the effectiveness of representation learning in boosting accuracy for sensitive datasets like leaf disease detection.
+
 ## Clone the Repository ⚙️
 
 If you haven’t already done so, clone the application repository to your local machine.
